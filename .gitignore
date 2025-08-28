@@ -7,11 +7,6 @@ package-lock.json
 dist/
 build/
 
-# Docker files
-.dockerignore
-Dockerfile
-docker-compose.yaml
-
 # Environment variables
 .env
 
