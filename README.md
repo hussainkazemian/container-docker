@@ -4,14 +4,22 @@
 ## Run with docker compose
 ```bash
 docker compose up --watch
+ ![Screenshot of project](`./public/images/up1.png`)
+  ![Screenshot of project](./public/images/up2.png)
+
+
+
 ```
 
 ## Build and Run Production Image
 
 ```bash
  docker build -t container-docker:v1 .
- docker run -p 3000:3000 name of an image
+ ![Screenshot of project](./public/images/build-container.png)
 
+ docker run -p 3000:3000 name of an image
+![Screenshot of project](./public/images/p1.png)
+![Screenshot of project](./public/images/p2.png)
 ```
 
 ## Run locally
