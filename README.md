@@ -4,12 +4,11 @@
 ## Run with docker compose
 ```bash
 docker compose up --watch
-![Screenshot of projec]("public/images/up1.png")
+```
+![docker](public/images/up1.png)
 ![Screenshot of project](./public/images/up2.png)
 
 
-
-```
 
 ## Build and Run Production Image
 
