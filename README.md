@@ -4,8 +4,8 @@
 ## Run with docker compose
 ```bash
 docker compose up --watch
- ![Screenshot of project](`./public/images/up1.png`)
-  ![Screenshot of project](./public/images/up2.png)
+![Screenshot of projec](./public/images/up1.png)
+![Screenshot of project](./public/images/up2.png)
 
 
 
