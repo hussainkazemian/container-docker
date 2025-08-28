@@ -23,6 +23,6 @@ npm run dev
 ```bash
 docker ps 
 then docker stop by ID 
-![Screenshot of project](./screenshot/challenges.png)
+![Screenshot of project](/images/challenges.png)
 
 ```
