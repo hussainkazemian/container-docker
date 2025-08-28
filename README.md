@@ -17,12 +17,14 @@ docker compose up --watch
 ## Run locally
 ```bash
 npm run dev
+![Screenshot of project](../docker/npm.png)
+
 ```
 
-## Challemges
+## Challenges
 ```bash
 docker ps 
 docker stop by ID 
-![Screenshot of project](./images/challenges.png)
+![Screenshot of project](../docker/challenges.png)
 
 ```
