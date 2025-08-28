@@ -5,7 +5,7 @@
 ```bash
 docker compose up --watch
 ```
-![docker](src/images/up1.png)
+![docker](../images/up1.png)
 ![Screenshot of project](/public/images/up2.png)
 
 
