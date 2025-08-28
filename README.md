@@ -17,7 +17,7 @@ docker compose up --watch
 ## Run locally
 ```bash
 npm run dev
-![Screenshot of project](npm.png)
+![Screenshot of project](./public/images/npm.png)
 
 ```
 
