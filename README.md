@@ -1,11 +1,11 @@
-# Nde-container
+# Node-container tehtävä
 
 
 ## Run with docker compose
 ```bash
 docker compose up --watch
 ```
-![docker](./images/up1.png),
+![docker](src/images/up1.png),
 ![docker](src/images/up2.png)
 
 
