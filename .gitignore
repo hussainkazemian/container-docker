@@ -18,6 +18,7 @@ build/
 *.log
 
 # Screenshots and other assets (if not needed in repo)
+images/
 
 # OS-specific files
 .DS_Store
