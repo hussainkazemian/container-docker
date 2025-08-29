@@ -19,7 +19,7 @@ docker compose up --watch
 ```bash
  docker run -p 3000:3000 name of an image
   ```
-![Screenshot of project](src/images/p1)
+![Screenshot of project](src/images/p1.png)
 ![Screenshot of project](src/images/p2.png)
 
 
