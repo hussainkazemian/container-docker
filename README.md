@@ -5,7 +5,7 @@
 ```bash
 docker compose up --watch
 ```
-![docker](/images/p1.png)
+![docker](./images/up1.png),
 ![docker](src/images/up2.png)
 
 
